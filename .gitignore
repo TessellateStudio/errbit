@@ -22,3 +22,5 @@ coverage
 .tool-versions
 NOTES
 *.swp
+.generators
+.rakeTasks
